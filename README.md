@@ -11,7 +11,8 @@ We plan to use:
 1. International match results dataset  
    Source: https://github.com/martj42/international_results/blob/master/results.csv
 
-2. FIFA world rankings 2026
+2. FIFA World Ranking 1992-2024
+   Source: https://www.kaggle.com/datasets/cashncarry/fifaworldranking?resource=download&select=fifa_ranking-2024-06-20.csv
 
 ## Required Project Elements
 - Data description and cleaning
@@ -26,7 +27,7 @@ We plan to use:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/LooCodes/DS-UA-100-Final-Project.git
 ```
 
 ### 2. Create a virtual environment
@@ -64,13 +65,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 5. Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 6. Deactivate the virtual environment
+### 5. Deactivate the virtual environment
 
 ```bash
 deactivate
