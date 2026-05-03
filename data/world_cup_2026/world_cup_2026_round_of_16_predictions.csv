@@ -1,0 +1,9 @@
+match_number,home_team,away_team,neutral,home_recent_win_rate,away_recent_win_rate,home_recent_goal_diff,away_recent_goal_diff,home_rank,away_rank,rank_difference,predicted_result,predicted_winner
+89,Germany,France,1,1.0,0.8,2.2,1.8,10,1,-9,away_win,France
+90,Switzerland,Netherlands,1,0.2,0.6,0.4,1.8,19,7,-12,away_win,Netherlands
+91,Brazil,Ecuador,1,0.4,0.2,0.4,0.4,6,23,17,home_win,Brazil
+92,Mexico,England,0,0.6,0.6,1.2,1.6,15,4,-11,home_win,Mexico
+93,Colombia,Spain,1,0.4,0.6,0.2,2.2,13,2,-11,away_win,Spain
+94,United States,Belgium,0,0.6,0.6,0.2,2.4,16,9,-7,home_win,United States
+95,Argentina,Turkey,1,1.0,0.8,3.0,1.4,3,22,19,home_win,Argentina
+96,Canada,Portugal,0,0.2,0.4,0.4,1.6,30,5,-25,home_win,Canada

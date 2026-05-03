@@ -1,0 +1,73 @@
+group,home_team,away_team,neutral,home_recent_win_rate,away_recent_win_rate,home_recent_goal_diff,away_recent_goal_diff,home_rank,away_rank,rank_difference,predicted_result,predicted_winner
+A,Mexico,South Africa,0,0.6,0.2,1.2,-0.4,15,60,45,home_win,Mexico
+A,South Korea,Czech Republic,1,0.6,0.8,0.0,1.2,25,41,16,home_win,South Korea
+A,Mexico,South Korea,0,0.6,0.6,1.2,0.0,15,25,10,home_win,Mexico
+A,Czech Republic,South Africa,1,0.8,0.2,1.2,-0.4,41,60,19,home_win,Czech Republic
+A,Mexico,Czech Republic,0,0.6,0.8,1.2,1.2,15,41,26,home_win,Mexico
+A,South Africa,South Korea,1,0.2,0.6,-0.4,0.0,60,25,-35,away_win,South Korea
+B,Canada,Switzerland,0,0.2,0.2,0.4,0.4,30,19,-11,home_win,Canada
+B,Qatar,Bosnia and Herzegovina,1,0.2,0.8,-0.6,1.0,55,65,10,home_win,Qatar
+B,Canada,Qatar,0,0.2,0.2,0.4,-0.6,30,55,25,home_win,Canada
+B,Bosnia and Herzegovina,Switzerland,1,0.8,0.2,1.0,0.4,65,19,-46,away_win,Switzerland
+B,Canada,Bosnia and Herzegovina,0,0.2,0.8,0.4,1.0,30,65,35,home_win,Canada
+B,Switzerland,Qatar,1,0.2,0.2,0.4,-0.6,19,55,36,home_win,Switzerland
+C,Brazil,Morocco,1,0.4,0.8,0.4,1.2,6,8,2,home_win,Brazil
+C,Haiti,Scotland,1,0.4,0.4,-0.2,0.0,83,43,-40,away_win,Scotland
+C,Brazil,Haiti,1,0.4,0.4,0.4,-0.2,6,83,77,home_win,Brazil
+C,Scotland,Morocco,1,0.4,0.8,0.0,1.2,43,8,-35,away_win,Morocco
+C,Scotland,Brazil,1,0.4,0.4,0.0,0.4,43,6,-37,away_win,Brazil
+C,Morocco,Haiti,1,0.8,0.4,1.2,-0.2,8,83,75,home_win,Morocco
+D,United States,Paraguay,0,0.6,0.4,0.2,-0.4,16,40,24,home_win,United States
+D,Australia,Turkey,1,0.4,0.8,0.0,1.4,27,22,-5,away_win,Turkey
+D,United States,Australia,0,0.6,0.4,0.2,0.0,16,27,11,home_win,United States
+D,Turkey,Paraguay,1,0.8,0.4,1.4,-0.4,22,40,18,home_win,Turkey
+D,United States,Turkey,0,0.6,0.8,0.2,1.4,16,22,6,home_win,United States
+D,Paraguay,Australia,1,0.4,0.4,-0.4,0.0,40,27,-13,away_win,Australia
+E,Germany,Curaçao,1,1.0,0.2,2.2,0.2,10,82,72,home_win,Germany
+E,Ivory Coast,Ecuador,1,0.8,0.2,1.6,0.4,34,23,-11,away_win,Ecuador
+E,Germany,Ivory Coast,1,1.0,0.8,2.2,1.6,10,34,24,home_win,Germany
+E,Ecuador,Curaçao,1,0.2,0.2,0.4,0.2,23,82,59,home_win,Ecuador
+E,Ecuador,Germany,1,0.2,1.0,0.4,2.2,23,10,-13,away_win,Germany
+E,Curaçao,Ivory Coast,1,0.2,0.8,0.2,1.6,82,34,-48,away_win,Ivory Coast
+F,Netherlands,Japan,1,0.6,1.0,1.8,1.6,7,18,11,home_win,Netherlands
+F,Tunisia,Sweden,1,0.2,0.4,0.0,-0.2,44,38,-6,home_win,Tunisia
+F,Netherlands,Tunisia,1,0.6,0.2,1.8,0.0,7,44,37,home_win,Netherlands
+F,Sweden,Japan,1,0.4,1.0,-0.2,1.6,38,18,-20,away_win,Japan
+F,Sweden,Netherlands,1,0.4,0.6,-0.2,1.8,38,7,-31,away_win,Netherlands
+F,Japan,Tunisia,1,1.0,0.2,1.6,0.0,18,44,26,home_win,Japan
+G,Belgium,Egypt,1,0.6,0.4,2.4,0.8,9,29,20,home_win,Belgium
+G,Iran,New Zealand,1,0.6,0.2,1.2,-0.4,21,85,64,home_win,Iran
+G,Belgium,Iran,1,0.6,0.6,2.4,1.2,9,21,12,home_win,Belgium
+G,New Zealand,Egypt,1,0.2,0.4,-0.4,0.8,85,29,-56,away_win,Egypt
+G,New Zealand,Belgium,1,0.2,0.6,-0.4,2.4,85,9,-76,away_win,Belgium
+G,Egypt,Iran,1,0.4,0.6,0.8,1.2,29,21,-8,away_win,Iran
+H,Spain,Cape Verde,1,0.6,0.2,2.2,0.2,2,69,67,home_win,Spain
+H,Saudi Arabia,Uruguay,1,0.2,0.2,-1.0,-0.6,61,17,-44,away_win,Uruguay
+H,Spain,Saudi Arabia,1,0.6,0.2,2.2,-1.0,2,61,59,home_win,Spain
+H,Uruguay,Cape Verde,1,0.2,0.2,-0.6,0.2,17,69,52,home_win,Uruguay
+H,Uruguay,Spain,1,0.2,0.6,-0.6,2.2,17,2,-15,away_win,Spain
+H,Cape Verde,Saudi Arabia,1,0.2,0.2,0.2,-1.0,69,61,-8,home_win,Cape Verde
+I,France,Senegal,1,0.8,0.8,1.8,0.6,1,14,13,home_win,France
+I,Norway,Iraq,1,0.4,0.6,1.0,0.2,31,57,26,home_win,Norway
+I,France,Norway,1,0.8,0.4,1.8,1.0,1,31,30,home_win,France
+I,Iraq,Senegal,1,0.6,0.8,0.2,0.6,57,14,-43,away_win,Senegal
+I,Iraq,France,1,0.6,0.8,0.2,1.8,57,1,-56,away_win,France
+I,Senegal,Norway,1,0.8,0.4,0.6,1.0,14,31,17,home_win,Senegal
+J,Argentina,Algeria,1,1.0,0.6,3.0,1.6,3,28,25,home_win,Argentina
+J,Austria,Jordan,1,0.6,0.4,1.2,0.2,24,63,39,home_win,Austria
+J,Argentina,Austria,1,1.0,0.6,3.0,1.2,3,24,21,home_win,Argentina
+J,Jordan,Algeria,1,0.4,0.6,0.2,1.6,63,28,-35,away_win,Algeria
+J,Jordan,Argentina,1,0.4,1.0,0.2,3.0,63,3,-60,away_win,Argentina
+J,Algeria,Austria,1,0.6,0.6,1.6,1.2,28,24,-4,home_win,Algeria
+K,Portugal,DR Congo,1,0.4,0.6,1.6,0.8,5,46,41,home_win,Portugal
+K,Uzbekistan,Colombia,1,0.6,0.4,0.6,0.2,50,13,-37,away_win,Colombia
+K,Portugal,Uzbekistan,1,0.4,0.6,1.6,0.6,5,50,45,home_win,Portugal
+K,Colombia,DR Congo,1,0.4,0.6,0.2,0.8,13,46,33,home_win,Colombia
+K,Colombia,Portugal,1,0.4,0.4,0.2,1.6,13,5,-8,away_win,Portugal
+K,DR Congo,Uzbekistan,1,0.6,0.6,0.8,0.6,46,50,4,home_win,DR Congo
+L,England,Croatia,1,0.6,0.8,1.6,1.0,4,11,7,home_win,England
+L,Ghana,Panama,1,0.2,0.4,-1.4,0.6,74,33,-41,away_win,Panama
+L,England,Ghana,1,0.6,0.2,1.6,-1.4,4,74,70,home_win,England
+L,Panama,Croatia,1,0.4,0.8,0.6,1.0,33,11,-22,away_win,Croatia
+L,Panama,England,1,0.4,0.6,0.6,1.6,33,4,-29,away_win,England
+L,Croatia,Ghana,1,0.8,0.2,1.0,-1.4,11,74,63,home_win,Croatia

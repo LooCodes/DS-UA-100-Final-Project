@@ -1,0 +1,2 @@
+match_number,home_team,away_team,neutral,home_recent_win_rate,away_recent_win_rate,home_recent_goal_diff,away_recent_goal_diff,home_rank,away_rank,rank_difference,predicted_result,predicted_winner
+104,Spain,Argentina,1,0.6,1.0,2.2,3.0,2,3,1,home_win,Spain
