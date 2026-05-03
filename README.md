@@ -75,17 +75,20 @@ deactivate
 
 ```text
 data/
-  raw/          Original datasets
-  processed/    Cleaned datasets
+  raw/              Original datasets
+  processed/        Cleaned datasets
+  world_cup_2026/   FIFA World Cup 2026 simulation csv files
 
-notebooks/      Data cleaning, EDA, statistics, and modeling notebooks
+models/             Exported predictor model
 
-src/            Reusable Python scripts/functions
+notebooks/          Data cleaning, EDA, statistics, and modeling notebooks
+
+src/                Reusable Python scripts/functions
 
 outputs/
-  figures/      Saved graphs
-  models/       Saved trained models
-  results/      Model metrics and other output files
+  figures/          Saved graphs
+  models/           Saved trained models
+  results/          Model metrics and other output files
 ```
 
 ## Notes
