@@ -1,0 +1,49 @@
+team,ranking_name,fifa_rank,latest_win_rate,latest_goal_diff
+France,France,1,0.8,1.8
+Spain,Spain,2,0.6,2.2
+Argentina,Argentina,3,1.0,3.0
+England,England,4,0.6,1.6
+Portugal,Portugal,5,0.4,1.6
+Brazil,Brazil,6,0.4,0.4
+Netherlands,Netherlands,7,0.6,1.8
+Morocco,Morocco,8,0.8,1.2
+Belgium,Belgium,9,0.6,2.4
+Germany,Germany,10,1.0,2.2
+Croatia,Croatia,11,0.8,1.0
+Colombia,Colombia,13,0.4,0.2
+Senegal,Senegal,14,0.8,0.6
+Mexico,Mexico,15,0.6,1.2
+United States,USA,16,0.6,0.2
+Uruguay,Uruguay,17,0.2,-0.6
+Japan,Japan,18,1.0,1.6
+Switzerland,Switzerland,19,0.2,0.4
+Iran,IR Iran,21,0.6,1.2
+Turkey,Türkiye,22,0.8,1.4
+Ecuador,Ecuador,23,0.2,0.4
+Austria,Austria,24,0.6,1.2
+South Korea,Korea Republic,25,0.6,0.0
+Australia,Australia,27,0.4,0.0
+Algeria,Algeria,28,0.6,1.6
+Egypt,Egypt,29,0.4,0.8
+Canada,Canada,30,0.2,0.4
+Norway,Norway,31,0.4,1.0
+Panama,Panama,33,0.4,0.6
+Ivory Coast, Cote d'Ivoire,34,0.8,1.6
+Sweden,Sweden,38,0.4,-0.2
+Paraguay,Paraguay,40,0.4,-0.4
+Czech Republic,Czechia,41,0.8,1.2
+Scotland,Scotland,43,0.4,0.0
+Tunisia,Tunisia,44,0.2,0.0
+DR Congo,Congo DR,46,0.6,0.8
+Uzbekistan,Uzbekistan,50,0.6,0.6
+Qatar,Qatar,55,0.2,-0.6
+Iraq,Iraq,57,0.6,0.2
+South Africa,South Africa,60,0.2,-0.4
+Saudi Arabia,Saudi Arabia,61,0.2,-1.0
+Jordan,Jordan,63,0.4,0.2
+Bosnia and Herzegovina,Bosnia and Herzegovina,65,0.8,1.0
+Cape Verde,Cabo Verde,69,0.2,0.2
+Ghana,Ghana,74,0.2,-1.4
+Curaçao,Curaçao,82,0.2,0.2
+Haiti,Haiti,83,0.4,-0.2
+New Zealand,New Zealand,85,0.2,-0.4

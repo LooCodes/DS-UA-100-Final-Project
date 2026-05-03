@@ -1,0 +1,32 @@
+round,match_number,home_team,away_team,predicted_result,predicted_winner
+Round of 32,73,South Korea,Switzerland,away_win,Switzerland
+Round of 32,74,Germany,Scotland,home_win,Germany
+Round of 32,75,Netherlands,Morocco,home_win,Netherlands
+Round of 32,76,Brazil,Japan,home_win,Brazil
+Round of 32,77,France,Australia,home_win,France
+Round of 32,78,Ecuador,Senegal,home_win,Ecuador
+Round of 32,79,Mexico,Ivory Coast,home_win,Mexico
+Round of 32,80,England,DR Congo,home_win,England
+Round of 32,81,United States,Austria,home_win,United States
+Round of 32,82,Belgium,Czech Republic,home_win,Belgium
+Round of 32,83,Colombia,Croatia,home_win,Colombia
+Round of 32,84,Spain,Algeria,home_win,Spain
+Round of 32,85,Canada,Egypt,home_win,Canada
+Round of 32,86,Argentina,Uruguay,home_win,Argentina
+Round of 32,87,Portugal,Norway,home_win,Portugal
+Round of 32,88,Turkey,Iran,home_win,Turkey
+Round of 16,89,Germany,France,away_win,France
+Round of 16,90,Switzerland,Netherlands,away_win,Netherlands
+Round of 16,91,Brazil,Ecuador,home_win,Brazil
+Round of 16,92,Mexico,England,home_win,Mexico
+Round of 16,93,Colombia,Spain,away_win,Spain
+Round of 16,94,United States,Belgium,home_win,United States
+Round of 16,95,Argentina,Turkey,home_win,Argentina
+Round of 16,96,Canada,Portugal,home_win,Canada
+Quarter-Finals,97,France,Netherlands,home_win,France
+Quarter-Finals,98,Spain,United States,home_win,Spain
+Quarter-Finals,99,Brazil,Mexico,home_win,Brazil
+Quarter-Finals,100,Argentina,Canada,home_win,Argentina
+Semi-Finals,101,France,Spain,away_win,Spain
+Semi-Finals,102,Brazil,Argentina,away_win,Argentina
+Final,104,Spain,Argentina,home_win,Spain

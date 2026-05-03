@@ -1,0 +1,5 @@
+match_number,home_team,away_team,neutral,home_recent_win_rate,away_recent_win_rate,home_recent_goal_diff,away_recent_goal_diff,home_rank,away_rank,rank_difference,predicted_result,predicted_winner
+97,France,Netherlands,1,0.8,0.6,1.8,1.8,1,7,6,home_win,France
+98,Spain,United States,0,0.6,0.6,2.2,0.2,2,16,14,home_win,Spain
+99,Brazil,Mexico,0,0.4,0.6,0.4,1.2,6,15,9,home_win,Brazil
+100,Argentina,Canada,0,1.0,0.2,3.0,0.4,3,30,27,home_win,Argentina
